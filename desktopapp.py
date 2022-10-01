@@ -1,4 +1,4 @@
-#Current doller value in India is 81.63 on 01-10-2022
+#Current doller value in India is Rs 81.63 on 01-10-2022
 from tkinter import *
 
 window =Tk()
